@@ -2,7 +2,7 @@
 
 Based on Super Mario, Super Snowman is a similar Christmas and Winter game. It currently has just one level.
 
-Download installer from here: https://github.com/hbokmann/SuperSnowman/blob/master/SuperSnowmanInstall.exe
+Download installer from here: [SuperSnowmanInstall.exe](https://bitbucket.org/hansjyrgen/super-snowman/src/ee3b5a04f434b67ad18d25cfdf6d5749b715acaa/SuperSnowmanInstall.exe)
 
 ![Pacman Game Window](https://raw.github.com/hbokmann/SuperSnowman/master/images/supersnowman.jpg)
 
